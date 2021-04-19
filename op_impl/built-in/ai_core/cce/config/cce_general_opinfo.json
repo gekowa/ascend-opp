@@ -1,0 +1,32 @@
+{
+    "TransData": {
+        "compute": {
+            "cost": "10"
+        },
+        "partial": {
+            "flag": "true"
+        },
+        "async": {
+            "flag": "false"
+        },
+        "Input0": {
+            "name": "x",
+            "needCompile": "false",
+            "paramType": "required",
+            "shape": "all",
+            "dtype": "int8,uint8",
+            "format": "NCHW,NCHW"
+        },
+        "output0": {
+            "name": "y",
+            "needCompile": "false",
+            "paramType": "required",
+            "shape": "all",
+            "dtype": "int8,uint8",
+            "format": "FRACTAL_Z,FRACTAL_Z"
+         },
+        "kernel_name": {
+            "prefix": ""
+        }
+    }
+}

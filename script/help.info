@@ -1,0 +1,11 @@
+  --run                             Install run mode
+  --full                            Install full mode
+  --devel                           Install devel mode
+  --install-path=<path>             Install product to specific dir path
+  --install-username=<username>     Install product to specific username
+  --install-usergroup=<usergroup>   Install product to specific usergroup
+  --uninstall                       Uninstall product
+  --upgrade                         Upgrade product immediately
+  --version                         Query the package version
+  --check-path=<path>               Specific the path of fwkacllib and atc to verify the relationships.
+  --install-for-all                 Install for all user

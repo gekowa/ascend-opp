@@ -1,0 +1,5 @@
+UserName=HwHiAiUser
+UserGroup=HwHiAiUser
+Opp_Install_Type=full
+Opp_Install_path_Param=/usr/local/Ascend/ascend-toolkit/20.1.rc1/x86_64-linux
+Opp_Version=1.75.22.0.220
